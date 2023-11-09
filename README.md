@@ -1,3 +1,3 @@
-# Salut tout le monde :wave:
+# Hello tout le monde :wave:
 
-Je suis développeur Full stack à Paris,
+Je suis Sylva et développeur Full stack à Paris,
